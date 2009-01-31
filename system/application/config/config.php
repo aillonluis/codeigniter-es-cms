@@ -12,6 +12,7 @@
 |
 */
 $config['base_url']	= "http://your-site.com/";
+$config['base_url_secure']	= "http://your-site.com/";
 
 /*
 |--------------------------------------------------------------------------
