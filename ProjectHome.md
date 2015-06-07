@@ -1,0 +1,2 @@
+Manjeador de contenidos desarrollado por y para programadores de habla hispana, surgido del email-listing CodeIgniter-spanish de google groups.
+El objetivo principal del desarrollo es crear un CMS estable con un framework de fácil uso. Otro aspecto a resaltar es que el código fuente del CMS será utilizado como casos de uso; se pretende crear integraciones con proyectos externos ó su adaptación al proyecto.
